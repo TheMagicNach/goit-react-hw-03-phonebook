@@ -1,0 +1,13 @@
+.label {
+  display: block;
+  margin-bottom: 10px;
+  color: #646464;
+}
+
+.input {
+  width: 300px;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+}

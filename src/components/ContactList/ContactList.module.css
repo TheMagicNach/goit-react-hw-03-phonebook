@@ -1,0 +1,22 @@
+.button {
+  padding: 10px 20px;
+  background-color: #3b8ce2;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-left: 20px;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+  color: #3b8ce2;
+  padding: auto;
+
+}
+
+.listItem {
+  margin-bottom: 20px;
+  display: flex;
+}

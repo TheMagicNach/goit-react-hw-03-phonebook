@@ -1,0 +1,37 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 30px;
+  border: 1px solid #bdbbbb;
+  padding: 15px;
+  background-color: #fff;
+  max-width: 350px;
+  border-radius: 15px;
+  margin-top: 20px;
+}
+
+
+
+.label {
+  display: block;
+  margin-bottom: 10px;
+  color: #4e4d4d;
+}
+
+.input {
+  width: 260px;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+}
+
+
+.button {
+  padding: 10px 20px;
+  background-color: #3b8ce2;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
